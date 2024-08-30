@@ -1,4 +1,4 @@
-console.log("Welcome To Tic Tac Toe Game");
+console.log("Welcome To Tic Tac Toe ");
 
 let gameover = false;
 let turn_music = new Audio('ding.mp3');
